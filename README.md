@@ -1,2 +1,4 @@
 # TI-57-Programs
  Programs for wintage programmable calculator TI-57 from beginning of 80th
+
+On [pcjs.org]([https://duckduckgo.com](https://www.pcjs.org/machines/ti/ti57/)) is an emulator on which can be programs run.
